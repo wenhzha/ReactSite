@@ -31,6 +31,7 @@
     {
       "route": "/admin",
       "statusCode": "200",
+      "allowedRoles": ["1", "2"]
       "serve": "/admin"
     },
     {
