@@ -75,7 +75,7 @@ class App extends React.Component {
                   <p>Test app</p>
                 </div>
                 <p>This is a test PR React app to test the MSHA.</p>
-                <p>This app was last updated 4/8/20 2:16pm.</p>
+                <p>This app was last updated 5/13/20 2:16pm.</p>
                 <p>Login first, then try to access authenticated and admin content.</p>
                 
                 
