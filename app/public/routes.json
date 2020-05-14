@@ -19,7 +19,7 @@
       "serve": "/about"
     },
     {
-      "route": "/baz",
+      "route": "/baz1",
       "statusCode": "302",
       "serve": "/about"
     },
