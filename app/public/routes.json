@@ -9,7 +9,7 @@
       "serve": "/.auth/logout"
     },
     {
-      "route": "/foo1",
+      "route": "/foo2",
       "statusCode": "200",
       "serve": "/about"
     },
