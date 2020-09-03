@@ -11,7 +11,7 @@ function Home() {
           Welcome to my test site! This site was last modified on 8/30/20 9:38pm
         </p>
         <p>
-          Wenonah test! Please work! Come on, work! What About Now? Last try? :) Work! Okay. what about now? Force windows, now??
+          Wenonah test! Please work! Come on, work! What About Now? Last try? :) Work! Okay. what about now? Force windows, now?? okie, this should work
         </p>
         <a
           className="App-link"
