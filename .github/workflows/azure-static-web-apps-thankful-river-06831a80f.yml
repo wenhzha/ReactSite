@@ -20,7 +20,7 @@ jobs:
           submodules: true
       - name: Build And Deploy
         id: builddeploy
-        uses: t-amsolo/anotherdeploy@master
+        uses: joslinmicrosoft/staticsitesactionoryx@hack2020
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_THANKFUL_RIVER_06831A80F }}
           repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
@@ -39,7 +39,7 @@ jobs:
     steps:
       - name: Close Pull Request
         id: closepullrequest
-        uses: t-amsolo/anotherdeploy@master
+        uses: joslinmicrosoft/staticsitesactionoryx@hack2020
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_THANKFUL_RIVER_06831A80F }}
           action: "close"
